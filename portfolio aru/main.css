@@ -1,0 +1,58 @@
+body
+{
+    background:url(CITYBG.jpg);
+    background-size: cover;
+    position: center;
+}
+
+
+
+.logo
+{
+    text-align: center;
+    padding: 50px;
+}
+#bar-1
+{
+    width: 600px;
+    height: 10px;
+    background:rgb(56, 55, 55);
+    opacity: 0.5;
+    text-align: center;
+}
+.content 
+{
+    text-align: center;
+    
+}
+.contact_me a
+{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+    background: transparent;
+    border: 2px solid white;
+    border-radius: 50%;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+    margin: 30px 15px 30px 0;
+}
+.contact_me 
+{
+    text-align: center;
+}
+.footer
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    color: aliceblue;
+    text-align: center;
+   width: 100%;
+   background:transparent;
+   color: white;
+   text-align: center;
+}
